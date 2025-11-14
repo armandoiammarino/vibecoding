@@ -1,0 +1,5 @@
+{
+  "name": "Earth Observation Browser",
+  "description": "Explore and visualize vast archives of Earth observation data. Enter a service URL and query to discover satellite imagery and geospatial information.",
+  "requestFramePermissions": []
+}
